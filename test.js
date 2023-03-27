@@ -1,5 +1,5 @@
 const Mukesh = {
     name:"mukesh",
-    type:"Chutiya",
+    type:"human",
     age:"25"
 }
